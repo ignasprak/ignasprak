@@ -68,18 +68,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Ignas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ignasprak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ignasprak&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 📜 Certifications
 
 [![DataCamp](https://img.shields.io/badge/Data%20Engineering%20Associate-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DEA0015644192535)
